@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/mnt/Volume/Github/AES128_NEXYS_A7_FPGA/AES128/AES128/AES128.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+/mnt/Volume/Github/AES128_NEXYS_A7_FPGA/AES128/AES128/AES128.srcs/sim_1/new/tb_aes128_core.v,1775012625,verilog,,,,tb_aes128_core,,,../../../../../../../../../../home/sgraciano/Xilinx/2025.1/data/rsb/busdef,,,,,
+/mnt/Volume/Github/AES128_NEXYS_A7_FPGA/AES128/AES128/AES128.srcs/sources_1/new/aes128_core.v,1775014727,verilog,,/mnt/Volume/Github/AES128_NEXYS_A7_FPGA/AES128/AES128/AES128.srcs/sim_1/new/tb_aes128_core.v,,aes128_core,,,../../../../../../../../../../home/sgraciano/Xilinx/2025.1/data/rsb/busdef,,,,,

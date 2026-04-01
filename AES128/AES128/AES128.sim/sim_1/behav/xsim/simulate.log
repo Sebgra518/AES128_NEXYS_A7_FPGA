@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Key        = 000102030405060708090a0b0c0d0e0f
+Plaintext  = 00112233445566778899aabbccddeeff
+Ciphertext = 69c4e0d86a7b0430d8cdb78070b4c55a
+PASS: AES-128 test vector matched.
+$finish called at time : 155 ns : File "/mnt/Volume/Github/AES128_NEXYS_A7_FPGA/AES128/AES128/AES128.srcs/sim_1/new/tb_aes128_core.v" Line 56
+INFO: xsimkernel Simulation Memory Usage: 483292 KB (Peak: 540564 KB), Simulation CPU Usage: 640 ms
