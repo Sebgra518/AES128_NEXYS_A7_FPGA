@@ -1,0 +1,1 @@
+//Buffers incoming plaintext.

@@ -1,0 +1,1 @@
+//XORs AES keystream with plaintext.
