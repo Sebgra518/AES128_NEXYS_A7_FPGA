@@ -1,10 +1,15 @@
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado" Owner="sgraciano" Host="fedora" Pid="29914" HostCore="8" HostMemory="31934380">
+    <Process Command="vivado" Owner="sgraciano" Host="fedora" Pid="36384" HostCore="8" HostMemory="31934380">
     </Process>
 </ProcessHandle>
 <?xml version="1.0"?>
 <ProcessHandle Version="1" Minor="0">
-    <Process Command="vivado" Owner="sgraciano" Host="fedora" Pid="31287" HostCore="8" HostMemory="31934380">
+    <Process Command="vivado" Owner="sgraciano" Host="fedora" Pid="37737" HostCore="8" HostMemory="31934380">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="sgraciano" Host="fedora" Pid="38389" HostCore="8" HostMemory="31934380">
     </Process>
 </ProcessHandle>

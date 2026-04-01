@@ -20,14 +20,14 @@
 //////////////////////////////////////////////////////////////////////////////////
 module top (
     input wire clk,        // 100 MHz clock
-    input wire rst,        // reset (active high)
+    input wire reset,        // reset (active high)
     output reg led         // LED output
 );
 
     reg [26:0] counter;    // 27-bit counter
 
     always @(posedge clk) begin
-        if (rst) begin
+        if (reset) begin
             counter <= 0;
             led <= 0;
         end else begin

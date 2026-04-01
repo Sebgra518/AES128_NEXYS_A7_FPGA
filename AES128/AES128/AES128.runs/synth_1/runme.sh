@@ -21,7 +21,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='/mnt/Volume/Github/AES128/AES128/AES128.runs/synth_1'
+HD_PWD='/mnt/Volume/Github/AES128_NEXYS_A7_FPGA/AES128/AES128/AES128.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
